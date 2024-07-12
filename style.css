@@ -1,0 +1,108 @@
+.first{
+    width: fit-content;
+    /* background-color: white; */
+}
+h1{
+    margin-left: 650px;
+    color: blueviolet;
+    font-size: 40px;
+    font-weight: bolder;
+}
+col-6{
+    margin-top: 0px;
+}
+*{
+    margin: 0px;
+    
+    padding: 0px;
+}
+body{
+    background-color:rgba(191, 221, 237, 0.58);
+}
+.image{
+    float: left;
+}
+.first{
+    display: inline;
+}
+.acc{
+    color: rgb(1, 12, 0);
+}
+.three{
+    width: 300px;
+    border-radius: 9px;
+    color: brown;
+    font-size: 20px;
+    padding: 4px;
+    margin-bottom: 20px;
+    font-weight: bolder;
+    background-color: white;
+}
+h4{
+    margin-left: 680px;
+    margin-bottom: 20px;
+}
+a{
+    font-weight: bolder;
+    text-decoration: none;
+    color: blueviolet;
+}
+.wel{
+    padding-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 90px;
+    font-style: normal;
+    font-size: 40px;
+    color: brown;
+    font-weight: bolder;
+}
+.buto{
+    border-style: none;
+    border-radius: 9px;
+    margin-left: 200px;
+    background-color: rgb(14, 121, 229);
+    color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.in{
+    height:100%;
+    width: 100%;
+    margin: 0px;
+    background-color: white;
+    border-style:none ;
+}
+.in:focus{
+    border-width: 0px;
+    border-color:white ;   
+}
+
+.forgot{
+    margin-left: 170px;
+    color: rgb(65, 14, 183);
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+#img1{
+    margin-left: 140px;
+    border-radius: 50px;
+}
+#img2{
+    border-radius: 30px;
+}
+h2,p{
+    padding-left: 600px;
+}
+.second{
+    padding-left: 600px;
+    margin-right: 200px;
+}
+.icon{
+    width: 40px;
+    padding: 10px;
+}
+.in:hover,.icon:hover,.buto:hover,.forgot:hover{
+    cursor: pointer;
+}
